@@ -1,0 +1,26 @@
+{
+    "Rifled Barrel":{
+        "Desc":"Rifles your barrel, making your gun more accurate",
+        "Tiers":[
+            {
+                "Modifier":{
+                    "Spread":"-5%"
+                },
+                "Cost":2500
+            },
+            {
+                "Modifier":{
+                    "Spread":"-10%"
+                },
+                "Cost":5000
+            },
+            {
+                "Modifier":{
+                    "Spread":"-20%"
+                },
+                "Cost":15000
+            }
+        ],
+        "Guns":["All"]
+    }
+}
