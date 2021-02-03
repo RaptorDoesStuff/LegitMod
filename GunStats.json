@@ -1,0 +1,17 @@
+{
+    "AK":{"Damage":"26","GunSound":"6","MaxAmmo":"25","FireRate":"0.15","Bullets":"1","Spread":"5","AutoFire":"true","AmmoType":"Rifle","U1":"2.1","U2":"1","U3":"5.332"},
+    "Famas":{"Damage":"26","GunSound":"6","MaxAmmo":"26","FireRate":"0.12","Bullets":"1","Spread":"5","AutoFire":"true","AmmoType":"Rifle","U1":"2.1","U2":"1","U3":"4.206"},
+    "Tec9":{"Damage":"18","GunSound":"6","MaxAmmo":"16","FireRate":"0.145","Bullets":"1","Spread":"10","AutoFire":"true","AmmoType":"SMG","U1":"2.1","U2":"1","U3":"3.3"},
+    "M16":{"Damage":"25","GunSound":"21","MaxAmmo":"25","FireRate":"0.15","Bullets":"1","Spread":"5","AutoFire":"false","AmmoType":"Rifle","U1":"2.1","U2":"1","U3":"nil"},
+    "Ballistic Fist":{"Damage":"32","GunSound":"6","MaxAmmo":"15","FireRate":"0.16","Bullets":"2","Spread":"10","AutoFire":"true","AmmoType":"Rifle","U1":"2.1","U2":"3","U3":"3.3"},
+    "Deagle":{"Damage":"35","GunSound":"10","MaxAmmo":"7","FireRate":"0.25","Bullets":"1","Spread":"5","AutoFire":"false","AmmoType":"Pistol","U1":"2.2","U2":"2","U3":"nil"},
+    "Mauser":{"Damage":"18","GunSound":"16","MaxAmmo":"12","FireRate":"0.08","Bullets":"1","Spread":"5","AutoFire":"false","AmmoType":"Pistol","U1":"2.2","U2":"2","U3":"nil"},
+    "Snubnose":{"Damage":"30","GunSound":"10","MaxAmmo":"6","FireRate":"0.25","Bullets":"1","Spread":"5","AutoFire":"false","AmmoType":"Rifle","U1":"2.2","U2":"3","U3":"nil"},
+    "USP":{"Damage":"26","GunSound":"16","MaxAmmo":"8","FireRate":"0.15","Bullets":"1","Spread":"5","AutoFire":"false","AmmoType":"Pistol","U1":"2.2","U2":"2","U3":"nil"},
+    "Tommy Gun":{"Damage":"26","GunSound":"6","MaxAmmo":"25","FireRate":"0.18","Bullets":"1","Spread":"5","AutoFire":"true","AmmoType":"SMG","U1":"2.1","U2":"1","U3":"4.206"},
+    "G36":{"Damage":"26","GunSound":"6","MaxAmmo":"26","FireRate":"0.12","Bullets":"1","Spread":"5","AutoFire":"true","AmmoType":"Rifle","U1":"2.1","U2":"1","U3":"5.332"},
+    ".45 Revolver":{"Damage":"30","GunSound":"10","MaxAmmo":"6","FireRate":"0.25","Bullets":"1","Spread":"5","AutoFire":"false","AmmoType":"Rifle","U1":"2.2","U2":"3","U3":"nil"},
+    "XM8":{"Damage":"26","GunSound":"6","MaxAmmo":"20","FireRate":"0.135","Bullets":"1","Spread":"7","AutoFire":"true","AmmoType":"Rifle","U1":"2.1","U2":"1","U3":"4.206"},
+    "M4":{"Damage":"26","GunSound":"6","MaxAmmo":"25","FireRate":"0.12","Bullets":"1","Spread":"5","AutoFire":"true","AmmoType":"Rifle","U1":"2.1","U2":"1","U3":"4.206"},
+    "Bizon":{"Damage":"16","GunSound":"6","MaxAmmo":"35","FireRate":"0.14","Bullets":"1","Spread":"10","AutoFire":"true","AmmoType":"SMG","U1":"2.1","U2":"1","U3":"5.07"}
+}
